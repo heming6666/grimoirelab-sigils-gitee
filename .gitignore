@@ -1,0 +1,16 @@
+*.pyc
+*.pyo
+#*#
+build
+
+# Eclipse's files and directories
+.project
+.pydevproject
+.settings
+
+# Ruby
+Gemfile*
+
+# Jekyll
+.sass-cache
+_site
